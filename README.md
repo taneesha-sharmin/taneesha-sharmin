@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi my name is Taneesha Sharmin!
+
+I'm currently a first year studying computer science at the University of Washington.
+
+Languages: Java, JavaScript, Python, HTML, CSS
+
+Hobbies: Photography, social good, sewing, baking
 
 <!--
 **taneesha-sharmin/taneesha-sharmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
